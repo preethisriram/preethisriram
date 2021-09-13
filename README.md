@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethisriram
-- 👀 I’m interested in Data Analysis, Data Science and Machine Learning
-- 🌱 I’m currently learning Google Data Analytics
+- 👀 I am a Software Engineer Intern @ Microsoft,Vancouver
+- 🌱 I’m interested in Data Analysis, Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me 'spreethichennai@gmail.com'
 
