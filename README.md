@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preethisriram
 - 👀 I am a Software Engineer Intern @ Microsoft,Vancouver
-- 🌱 I’m interested in Data Analysis, Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m interested in Software Development, Data Analysis, Data Science and Machine Learning
+- 💞️ I’m actively looking for Software Developer roles 
 - 📫 How to reach me 'spreethichennai@gmail.com'
 
 <!---
